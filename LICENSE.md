@@ -1,6 +1,6 @@
 # License for "NystagmusDetection-RT"
 
-**Copyright (c) 2024, imkaleemahmad**
+**Copyright (c) 2024, Kaleem Ahmad**
 
 All rights reserved.
 
